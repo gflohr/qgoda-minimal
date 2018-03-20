@@ -29,3 +29,6 @@ and build - an also pretty minimal - site in the directory `_site`.
 
 Open the file `_site/index.html` in your browser for documentation of the
 theme.
+
+Try `qgoda-dev init --help` for more information about installing Qgoda
+themes.

@@ -13,3 +13,4 @@ defaults:
       - /
     values:
       lingua: en-us
+theme_repo: gflohr/qgoda-minimal
