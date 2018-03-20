@@ -1,0 +1,13 @@
+# YAML description for the theme qgoda-minimal.
+_exclude:
+  - /README.md
+  - /package.json
+_precious:
+  - '*.md'
+  - '*.markdown'
+  - '*.mkdn'
+title: Qgoda Minimal Seed Project
+defaults:
+  /:
+    values:
+      lingua: en-us

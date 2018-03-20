@@ -1,0 +1,3 @@
+exclude:
+  - /COPYING
+  - /README.md
