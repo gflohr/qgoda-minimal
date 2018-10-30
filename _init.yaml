@@ -9,8 +9,7 @@ _precious:
   - '*.mkdn'
 title: Qgoda Minimal Seed Project
 defaults:
-  - files:
-      - /
+  - files: "/**"
     values:
       lingua: en-us
 theme_repo: gflohr/qgoda-minimal
